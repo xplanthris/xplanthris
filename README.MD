@@ -1,12 +1,12 @@
 <h1 align="center">What's up, I'm Syed Muhammad Shuja Haider</h1>
 <h3 align="center">Idiot in front of a computer</h3>
-- 🔭 I’m currently working on [BoomPriv](https://github.com/xplanthris/BoomPriv)
-- 👯 I’m looking to collaborate on [BoomPriv](https://github.com/xplanthris/BoomPriv)
-- 🤝 I’m looking for help with [BoomPriv](https://github.com/xplanthris/BoomPriv)
-- 🌱 I’m currently learning **How to become sub-10 on the 3x3**
-- 💬 Ask me about **Any programming / hacking thing**
-- 📫 How to reach me **xplanthris@gmail.com**
-- ⚡ Fun fact **I can solve a cube**
+- 🔭 I’m currently working on [BoomPriv](https://github.com/xplanthris/BoomPriv)<br>
+- 👯 I’m looking to collaborate on [BoomPriv](https://github.com/xplanthris/BoomPriv)<br>
+- 🤝 I’m looking for help with [BoomPriv](https://github.com/xplanthris/BoomPriv)<br>
+- 🌱 I’m currently learning **How to become sub-10 on the 3x3**<br>
+- 💬 Ask me about **Any programming / hacking thing**<br>
+- 📫 How to reach me **xplanthris@gmail.com**<br>
+- ⚡ Fun fact **I can solve a cube**<br>
 
 <div> <a href="https://twitter.com/xplanthris" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/xplanthris" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
