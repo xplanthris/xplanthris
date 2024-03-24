@@ -1,9 +1,3 @@
-Generate Successfully
-Awesome Github Readme Generator
-
-Awesome Github Profile README.md Generator
-Star This Repository
-Fork This Repository
 <h1 align="center">What's up, I'm Syed Muhammad Shuja Haider</h1>
 <h3 align="center">Idiot in front of a computer</h3>
 - 🔭 I’m currently working on [BoomPriv](https://github.com/xplanthris/BoomPriv)
@@ -89,28 +83,3 @@ Fork This Repository
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xplanthris&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xplanthris&theme=algolia" height="180em" />
 </div>
-Support
-Are you using the tool and happy with it to create your GitHub Repository?
-Please Don't Forget to Star This Repository
-FlowBite LogoGithub Readme Generator
-Resources
-
-    Github Readme Generator
-    Source Code
-
-Follow us
-
-    Github
-    Linkedin
-
-Legal
-
-    Privacy Policy
-    Terms & Conditions
-
-© 2023 . All Rights Reserved.Made ❤️ by Sashen Jayathilaka
-Facebook page
-Instagram page
-Twitter page
-GitHub account
-Dribbble account
