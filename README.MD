@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/xplanthris" target="blank"><img src="https://img.shields.io/twitter/follow/xplanthris?logo=twitter&style=for-the-badge" alt="xplanthris" /></a> </p>
 
+I'm a passionate 13 year old, who codes / hacks / does whatever I feel like doing at given moment.
+
 - 🔭 I’m currently working on [BoomPriv](https://github.com/xplanthris/BoomPriv)
 
 - 💬 Ask me about **Anything coding / hacking related**
