@@ -8,8 +8,6 @@ Need to reach me?
 - Discord: xplanthris
 - Telegram: xplanthris
 
-Support me: No I'm not adding that, all my work needs no pay.
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xplanthris&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xplanthris)](https://github.com/anuraghazra/github-readme-stats)
