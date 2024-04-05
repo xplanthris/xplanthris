@@ -5,7 +5,7 @@
 
 I'm a passionate 13 year old, who codes / hacks / does whatever I feel like doing at given moment.
 
-- 🔭 I’m currently working on [BoomPriv](https://github.com/xplanthris/BoomPriv)
+- 🔭 I’m currently working on something interesting
 
 - 💬 Ask me about **Anything coding / hacking related**
 
