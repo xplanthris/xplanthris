@@ -3,9 +3,9 @@
 # 💫 About Me:
 Hi, my name is Syed Muhammad Shuja Haider and I am a passionate developer from Riyadh, Saudi Arabia.<br>I enjoy breaking things and making them on an overglorified box of metal.<br>I can code in several languages, don't ask how well.
 
-# Why is this xplanthris1 and not xplanthris
+# Why is my old account xplanthris-zz
 Long story short, someone attempted to login to my Github account getting a forced password reset, then I couldn't 2FA verify because I got logged out of the Github mobile app. And I lost my recovery codes.
-[https://x.com/xplanthris/status/1806312054468342032](https://x.com/xplanthris/status/1806312054468342032)
+Github support was kind enough to hand my username back
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xplanthris) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/xplanthris) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xplanthris) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@xplanthris) 
