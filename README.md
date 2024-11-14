@@ -1,8 +1,8 @@
 ## Hi there!
-Hey there, my name is Syed Muhammad Shuja Haider, also known as xplanthris and I'm a 13 year old idiot. I live in Riyadh, Saudi Arabia.<br>
-I enjoy programming, hacking, reverse engineering, and much more on what is essentially an overglorified metal box.<br>
-I've been programming since I was 6 years old and safe to say, I've gotten pretty good at it.<br>
-My favorite languages are probably C / C++, ASM, Java.<br>
+My name is Syed Muhammad Shuja Haider, more commonly known as xplanthris<br>
+I'm 13 years old (to be updated every year), and I currently live in Riyadh, Saudi Arabia!<br>
+I like anything computer related really<br>
+I'd go more in depth about myself but I have nothing to show, for now ;)<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=xplanthris&show_icons=true&theme=dark)<br>
