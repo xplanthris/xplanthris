@@ -1,6 +1,6 @@
 ## Hi there!
 My name is Syed Muhammad Shuja Haider, more commonly known as xplanthris<br>
-I'm 13 years old (to be updated every year), and I currently live in Riyadh, Saudi Arabia!<br>
+I'm 14 years old (I updated this late), and I currently live in Riyadh, Saudi Arabia!<br>
 I like anything computer related really<br>
 I'd go more in depth about myself but I have nothing to show, for now ;)<br>
 
